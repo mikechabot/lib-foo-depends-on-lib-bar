@@ -1,5 +1,7 @@
 # MyTestOrg
 
+Steps taken:
+
 1. `npx create-nx-workspace my-test-org`
 2. `npm install --save-dev @nrwl/react`
 3. `nx generate @nrwl/react:library --name=foo --buildable --pascalCaseFiles`
