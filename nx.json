@@ -22,5 +22,12 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "foo": {
+      "tags": []
+    },
+    "bar": {
+      "tags": []
+    }
+  }
 }
